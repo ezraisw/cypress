@@ -15,3 +15,24 @@ song/
 cypress-{version}.jar
 profile.json
 ```
+
+## Controls
+Song Select
+- [`W`/`UP`] or [`S`/`DOWN`] select song
+- [`A`/`LEFT`] or [`D`/`RIGHT`] select difficulty
+- [`ENTER`] play song
+
+Play
+- [`Q`/`W`/`E`/`P`/`[`/`]`] hit notes on rails from left to right
+- [`C`/`V`] trigger purple slide notes
+- [`,`/`.`] trigger green slide notes
+
+Result
+- [`R`] Retry song
+- [`ENTER`] Return to song select
+
+## To-Do List
+- Change scanline duration format to BPM
+- Refactor code
+- Finish long hold note
+- Extra interface elements for guidance
